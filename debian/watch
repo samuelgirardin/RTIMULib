@@ -1,0 +1,4 @@
+version=3
+
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/RTIMULib-$1\.tar\.gz/ \
+  https://github.com/richards-tech/RTIMULib/tags .*/V?(\d\S*)\.tar\.gz
