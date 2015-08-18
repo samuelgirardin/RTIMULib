@@ -10,7 +10,6 @@ extra_flags += \
 	-DBUILD_GL=OFF \
 	-DBUILD_DRIVE=OFF \
 	-DBUILD_DRIVE10=OFF \
-	-DBUILD_DRIVE11=OFF \
 	-DBUILD_DEMO=OFF
 
 # main packaging script based on dh7 syntax

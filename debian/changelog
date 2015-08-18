@@ -1,3 +1,9 @@
+rtimulib (7.2.1-2) jessie; urgency=low
+
+  * Add pre-calibrated config for Sense HAT
+
+ -- Serge Schneider <serge@raspberrypi.org>  Tue, 18 Aug 2015 17:14:43 +0100
+
 rtimulib (7.2.1-1) jessie; urgency=low
 
   * Initial release
