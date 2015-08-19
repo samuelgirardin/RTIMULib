@@ -1,6 +1,13 @@
+rtimulib (7.2.1-3) jessie; urgency=low
+
+  * Remove pre-calibrated config for inclusion in the sensehat package
+
+ -- Serge Schneider <serge@raspberrypi.org>  Wed, 19 Aug 2015 15:32:45 +0100
+
 rtimulib (7.2.1-2) jessie; urgency=low
 
   * Add pre-calibrated config for Sense HAT
+  * Enable RTIMULibDrive11 example
 
  -- Serge Schneider <serge@raspberrypi.org>  Tue, 18 Aug 2015 17:14:43 +0100
 
