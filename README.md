@@ -35,6 +35,7 @@ RTIMULib currently supports the following IMUs:
 * L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU.
 * Bosch BMX055 (although magnetometer support is experimental currently).
 * Bosch BNO055 IMU with onchip fusion. Note: will not work reliably with RaspberryPi/Pi2 due to clock-stretching issues.
+  My 2 cents : BNO055 works normally with Software I2C on the Raspberry Pi (https://github.com/fivdi/i2c-bus/blob/master/doc/raspberry-pi-software-i2c.md) 
 
 The LSM9DS1 implementation was generously supplied by XECDesign.
 
